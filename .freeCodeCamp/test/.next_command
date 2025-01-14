@@ -1,0 +1,87 @@
+__vsc_prompt_cmd_original
+psql --username=freecodecamp --dbname=periodic_table
+psql --username=freecodecamp --dbname=periodic_table
+mkdir periodic_table
+cd periodic_table
+git init
+echo "# Periodic Table Project" > README.md
+git add README.md
+git commit -m "Initial commit"
+touch element.sh
+touch element.sh
+nano element.sh
+git add element.sh
+git commit -m "feat: Add element.sh script"
+pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+git add periodic_table.sql
+git commit -m "fix: update database schema and constraints"
+git add README.md
+git commit -m "chore: update README with project details"
+git commit -m "test: verify database changes"
+git commit -m "refactor: optimize database queries in script"
+./element.sh
+chmod +x element.sh
+./element.sh
+./element.sh 1
+./element.sh H
+./element.sh 'H'
+./element.sh H
+./element.sh Hydrogen
+./element.sh unknown
+git init
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git commit -m "fix: renamed columns for consistency"
+git commit -m "feat: added types table and linked it to properties"
+git commit -m "fix: removed trailing zeros from atomic mass"
+git commit -m "feat: added elements 9 and 10 to the database"
+git commit -m "feat: added elements 9 and 10 to the database"git commit -m "refactor: improve script for querying elements"
+git commit -m "refactor: improve script for querying elements"
+git commit -m "[200~chore: rename repository branch to main"
+git commit -m "chore: rename repository branch to main"
+git add .
+git commit -m "Initial commit"
+git add periodic_table.sql
+git commit -m "fix: update database schema and constraints"
+git add periodic_table.sql
+git commit -m "feat: add elements Fluorine and Neon to the database"
+git add element.sh
+git commit -m "feat: add element query script"
+git add periodic_table.sql
+git commit -m "feat: add element query script"
+git add periodic_table.sql
+git commit -m "feat: add element query script"
+git add periodic_table.sql
+git commit -m "feat: add element query script"
+git add periodic_table.sql
+git commit -m "feat: add element query script"
+git add element.sh
+git log --oneline
+git add element.sh
+git log --oneline
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git rebase -i HEAD~4
+git log --oneline
+git rebase -i --root
+git rebase -i --root
+git rebase -i --root
+git log --oneline
+git rebase -i --root
+git rebase -i --root
+git log --oneline
+git rebase -i --root
+git log --oneline
+git rebase -i --root
+git log --oneline
+git rebase -i --root
+git log --oneline
+git rebase -i --root
+git rebase -i --root
